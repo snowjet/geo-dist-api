@@ -1,0 +1,3 @@
+herepy
+python-dotenv
+daiquiri
